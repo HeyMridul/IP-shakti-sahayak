@@ -1,0 +1,114 @@
+IP-SAKTI SAHAYAK KNOWLEDGE BASE
+================================
+
+SOURCE 1
+Title: Guidelines for Examination of Ayush Related Inventions - 2025
+Organization: Intellectual Property India
+URL: https://ipindia.gov.in/resource/patents-resources-guidelines
+
+Key information:
+The Indian Patent Office has published Guidelines for Examination of Ayush Related Inventions - 2025.
+
+These guidelines are relevant to examination of patent applications involving AYUSH-related inventions.
+
+When assessing an invention, patentability requirements must be considered under applicable Indian patent law and examination practice.
+
+A claim involving traditional knowledge should not automatically be treated as a new invention merely because the traditional knowledge has been presented in a different form.
+
+Questions involving Ayurveda, traditional medicine, biological resources, formulations, processes and related inventions may require examination of novelty, inventive step and other applicable requirements.
+
+The official IP India guidelines should be checked for the latest and exact examination position.
+
+SOURCE 2
+Title: Traditional Knowledge and Intellectual Property
+Organization: World Intellectual Property Organization (WIPO)
+URL: https://www.wipo.int/en/web/traditional-knowledge/tk/index
+
+Key information:
+Traditional knowledge includes knowledge, know-how, skills and practices developed and passed between generations within a community.
+
+Traditional knowledge can include medicinal, agricultural, scientific, technical and ecological knowledge.
+
+Traditional knowledge as such is generally not protected by conventional intellectual property systems in the same way as a new invention.
+
+Innovations based on traditional knowledge may potentially interact with patents, trademarks, geographical indications, trade secrets or other forms of intellectual property protection depending on the circumstances.
+
+WIPO describes defensive protection as strategies intended to prevent third parties from obtaining inappropriate intellectual property rights over traditional knowledge.
+
+Documentation and databases of traditional knowledge can help demonstrate prior art and may assist patent examination.
+
+SOURCE 3
+Title: Intellectual Property and Traditional Medical Knowledge
+Organization: World Intellectual Property Organization (WIPO)
+URL: https://www.wipo.int/publications/en/details.jsp?id=4692
+
+Key information:
+Traditional medical knowledge can raise intellectual property questions concerning protection, use, commercialization and benefit sharing.
+
+Different intellectual property approaches may be relevant depending on the type of knowledge, innovation and jurisdiction.
+
+Traditional medical knowledge may interact with existing intellectual property systems as well as policy approaches specifically designed for traditional knowledge.
+
+The rights and interests of traditional knowledge holders and communities are important considerations.
+
+SOURCE 4
+Title: WHO International Standard Terminologies on Ayurveda
+Organization: World Health Organization (WHO)
+URL: https://www.who.int/publications/b/55789
+
+Key information:
+WHO published international standard terminologies for Ayurveda.
+
+Standard terminology can help professionals, researchers, policymakers and other users communicate consistently about Ayurveda.
+
+The terminology resource supports international cooperation, information exchange, standards and classifications relating to Ayurveda.
+
+SOURCE 5
+Title: WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge
+Organization: World Intellectual Property Organization (WIPO)
+URL: https://www.wipo.int/en/web/traditional-knowledge/wipo-treaty-on-ip-gr-and-associated-tk
+
+Key information:
+WIPO member states adopted the WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge in May 2024.
+
+The treaty addresses the relationship between intellectual property, genetic resources and associated traditional knowledge.
+
+The treaty includes provisions concerning patent applications involving genetic resources and associated traditional knowledge.
+
+The treaty's implementation and entry into force depend on the applicable international legal requirements.
+
+For international questions, the current status of the treaty should always be verified from official WIPO information.
+
+SOURCE 6
+Title: Documentation of Traditional Knowledge
+Organization: World Intellectual Property Organization (WIPO)
+URL: https://www.wipo.int/en/web/traditional-knowledge/resources/tk-and-tces
+
+Key information:
+Documentation of traditional knowledge involves identifying, collecting, organizing, recording or registering traditional knowledge.
+
+Documentation can have intellectual property implications.
+
+Documentation may help preserve knowledge and can also have risks if sensitive knowledge is exposed or misused.
+
+WIPO recommends considering objectives, risks and potential benefits when documenting traditional knowledge.
+
+GENERAL GUIDANCE
+================
+
+IP-SAKTI Sahayak should provide informational and source-grounded guidance.
+
+The system should not claim to be a lawyer, patent agent or government authority.
+
+The system should not invent laws, regulations, patent sections, government policies or legal conclusions.
+
+If the available knowledge is insufficient to answer a question, the system should clearly say that there is insufficient information and recommend checking the relevant official authority.
+
+For Indian patent questions, official Intellectual Property India resources should be preferred.
+
+For international traditional knowledge and intellectual property questions, WIPO resources should be preferred.
+
+For Ayurveda terminology and traditional medicine context, WHO resources may be useful.
+
+Important:
+This knowledge base is a prototype and does not replace professional legal or regulatory advice.
